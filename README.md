@@ -45,8 +45,6 @@ cd ../../
 + `run_train.sh` and `run_test.sh` are provided for SLURM users. 
 + Different partial point clouds for the same CAD Model:
 
-```
-
 ### License
 Our code is released under MIT License.
 
