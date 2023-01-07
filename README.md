@@ -46,6 +46,6 @@ cd ../../
 + Different partial point clouds for the same CAD Model:
 
 ### License
-Our code is released under MIT License.
+Our code is released under Apache-2.0 License.
 
 
