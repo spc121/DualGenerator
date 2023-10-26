@@ -28,11 +28,7 @@ conda activate mvp
 conda install pytorch==1.5.0 torchvision==0.6.0 cudatoolkit=10.1 -c pytorch -y
 
 # setup completion
-cd completion
 pip install -r requirements.txt
-
-
-cd ../utils/mm3d_pn2/
 sh setup.sh
 
 pip install -v -e . 
